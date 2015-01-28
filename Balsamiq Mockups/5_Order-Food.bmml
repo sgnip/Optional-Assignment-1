@@ -1,0 +1,81 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="556" measuredH="444" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="106" y="44" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>24</bottomheight>
+        <dragger>true</dragger>
+        <minimize>false</minimize>
+        <text>Automatic%20Receptionist</text>
+        <topheight>26</topheight>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="233" y="88" w="-1" h="-1" measuredW="205" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <italic>false</italic>
+        <size>40</size>
+        <text>Order%20Food</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="106" y="65" w="450" h="358" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>11982760</color>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="230" y="339" w="191" h="42" measuredW="119" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>13369344</color>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>Charge%20to%20Bill</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::PointyButton" x="129" y="381" w="59" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15374745</color>
+        <direction>left</direction>
+        <menuIcon>false</menuIcon>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::CheckBox" x="473" y="383" w="-1" h="-1" measuredW="68" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabledSelected</state>
+        <text>Print%20Bill</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="143" y="146" w="-1" h="-1" measuredW="359" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Look%20for%20the%20products%20you%20wish%20and%20add%20them%20to%20your%20bill%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::DataGrid" x="163" y="222" w="325" h="86" measuredW="292" measuredH="85" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Product%2C%20Price%2C%20Quantity%2C%20Subtotal%0AChocolate%20Bar%2C%205%5Cr%28per%20unit%29%2C%202%2C%2010%20%0ACoca-Cola%2C%202%5Cr%28per%20unit%29%2C%202%2C%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::SearchBox" x="301" y="180" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>co</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="188" y="181" w="-1" h="-1" measuredW="105" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Product%20Search%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::List" x="311" y="202" w="100" h="72" measuredW="100" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <text>Coca-Cola%0ACocktail%0ACoconut</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

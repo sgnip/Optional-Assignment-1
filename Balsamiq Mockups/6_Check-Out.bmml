@@ -1,0 +1,79 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="556" measuredH="444" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="106" y="44" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>24</bottomheight>
+        <dragger>true</dragger>
+        <minimize>false</minimize>
+        <text>Automatic%20Receptionist</text>
+        <topheight>26</topheight>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="233" y="88" w="-1" h="-1" measuredW="196" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <italic>false</italic>
+        <size>40</size>
+        <text>Check-Out</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="106" y="65" w="450" h="358" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>11982760</color>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="253" y="356" w="156" h="52" measuredW="140" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>13369344</color>
+        <menuIcon>false</menuIcon>
+        <size>24</size>
+        <text>Check-Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::PointyButton" x="129" y="381" w="59" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15374745</color>
+        <direction>left</direction>
+        <menuIcon>false</menuIcon>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::CheckBox" x="473" y="383" w="-1" h="-1" measuredW="68" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Print%20Bill</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="290" y="316" w="83" h="27" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>814</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="218" y="319" w="72" h="-1" measuredW="66" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20Price%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="380" y="319" w="72" h="-1" measuredW="33" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>euros</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="143" y="146" w="-1" h="-1" measuredW="184" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Verify%20your%20bill%20before%20paying%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::DataGrid" x="169" y="181" w="325" h="120" measuredW="314" measuredH="117" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Service%2C%20Price%2C%20Quantity%2C%20Subtotal%20%0AIndividual%20Room%2C%20160%5Cr%28per%20night%29%2C%205%2C%20800%0AChocolate%20Bar%2C%205%5Cr%28per%20unit%29%2C%202%2C%2010%0ACoca-Cola%2C%202%5Cr%28per%20unit%29%2C%202%2C%204</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

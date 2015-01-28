@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="556" measuredH="444" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="106" y="44" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>24</bottomheight>
+        <dragger>true</dragger>
+        <minimize>false</minimize>
+        <text>Automatic%20Receptionist</text>
+        <topheight>26</topheight>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="233" y="88" w="-1" h="-1" measuredW="190" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <italic>false</italic>
+        <size>40</size>
+        <text>Thank%20You</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="106" y="65" w="450" h="358" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>11982760</color>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="186" y="146" w="-1" h="-1" measuredW="291" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>We%20hope%20you%20enjoyed%20your%20stance%20in%20out%20hotel.</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="174" y="174" w="-1" h="-1" measuredW="314" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Thank%20you%20for%20trusting%20our%20hotal%20chain%20once%20again.</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::SubTitle" x="208" y="233" w="-1" h="-1" measuredW="246" measuredH="74" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>32</size>
+        <text>See%20you%20soon.%5CrHave%20a%20good%20trip%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="132" y="358" w="-1" h="-1" measuredW="396" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>Please%2C%20remember%20to%20leave%20your%20keycard%20in%5Crthe%20Automatic%20Receptionist%20of%20the%20Hall%20before%20leaving%20the%20hotel.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
