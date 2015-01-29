@@ -34,7 +34,7 @@
     <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="174" y="174" w="-1" h="-1" measuredW="314" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
-        <text>Thank%20you%20for%20trusting%20our%20hotal%20chain%20once%20again.</text>
+        <text>Thank%20you%20for%20trusting%20our%20hotel%20chain%20once%20again.</text>
       </controlProperties>
     </control>
     <control controlID="32" controlTypeID="com.balsamiq.mockups::SubTitle" x="208" y="233" w="-1" h="-1" measuredW="246" measuredH="74" zOrder="5" locked="false" isInGroup="-1">
