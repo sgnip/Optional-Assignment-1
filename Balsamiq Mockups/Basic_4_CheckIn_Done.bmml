@@ -49,10 +49,10 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="168" y="145" w="-1" h="-1" measuredW="326" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="180" y="145" w="-1" h="-1" measuredW="302" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <size>18</size>
-        <text>Thank%20you%20for%20booking%20with%20%7Bhotelname%7D</text>
+        <text>Thank%20you%20for%20booking%20with%20Maximum</text>
       </controlProperties>
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="219" y="171" w="-1" h="-1" measuredW="224" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
